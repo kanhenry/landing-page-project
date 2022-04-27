@@ -79,12 +79,15 @@ a {
 
 .info-header {
     text-align: center;
+    margin: 24px;
 }
 
 .info-content {
     display: flex;
     justify-content: center;
     column-gap: 64px;
+
+    margin: 24px;
 }
 
 .info-image {
